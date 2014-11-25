@@ -1,0 +1,42 @@
+body
+{
+	background-color: #FFFFFF;	
+    padding: 0px;
+}
+
+#content
+{
+    margin-left: auto;
+    margin-right: auto;
+	background:#87AFC7;
+	width:445px; 
+	height: 540px;	
+}
+
+h1
+{
+	text-align: center;
+	font-size: 40px;
+	color: #6F4E37;
+}
+
+.text_body
+{
+	margin:0;
+	padding:0;
+	word-wrap:break-word;
+}
+
+.copyright
+{
+	font-family:"Verdana", sans-serif;
+	color:#000000;
+	background-color:transparent;
+	font-size:10px;
+	text-align: center;
+}
+
+th
+{
+	text-align: left;
+}
